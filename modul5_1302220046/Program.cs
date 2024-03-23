@@ -18,9 +18,9 @@ using System.Numerics;
         Console.WriteLine(JumlahTigaAngka<int>(13, 2, 22));
         SimpleDataBase<string> data = new SimpleDataBase<string>();
 
-        data.AddNewData("12");
-        data.AddNewData("34");
-        data.AddNewData("56");
+        data.AddNewData("13");
+        data.AddNewData("2");
+        data.AddNewData("22");
         data.PrintAllData();
     }
 }
